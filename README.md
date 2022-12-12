@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Eu sou o Augusto Maia</h2>
 
-<!--
-**augustofmaia/augustofmaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustofmaia&show_icons=true&theme=transparent)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustofmaia&layout=compact)](https://github.com/augustofmaia/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/augustofmaia" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-augustofmaia-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/augustofmaia" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-augustofmaia-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
